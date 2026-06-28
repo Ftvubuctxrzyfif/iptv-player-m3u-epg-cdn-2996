@@ -1,0 +1,30 @@
+{
+  "id": "com.iptvplayer.smarters.webos",
+  "version": "1.0.0",
+  "vendor": "IPTV Player",
+  "type": "web",
+  "main": "index.html",
+  "title": "IPTV Smarters",
+  "icon": "icon-80.png",
+  "largeIcon": "icon-130.png",
+  "accessibleAtInstall": true,
+  "lockable": true,
+  "trustLevel": "normal",
+  "keywords": [
+    "iptv",
+    "streaming",
+    "tv",
+    "video"
+  ],
+  "iconColor": "#3b82f6",
+  "directoryInfo": {
+    "iconColor": "#3b82f6"
+  },
+  "appDescription": "IPTV Player for live TV streaming",
+  "resolution": [
+    "1920x1080"
+  ],
+  "virtualKeys": {
+    "enabled": true
+  }
+}
